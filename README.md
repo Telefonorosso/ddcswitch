@@ -1,4 +1,4 @@
-# DDCSwitch for Emu68
+# DDCSwitch for Emu68 - AI CODED
 
 Small AmigaOS CLI utility for switching the HDMI monitor input directly through **DDC/CI** from an Emu68/PiStorm system.
 
